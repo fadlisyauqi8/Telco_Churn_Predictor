@@ -1,0 +1,8 @@
+waitress
+pandas
+numpy
+scikit-learn
+flask
+tensorflow-cpu
+protobuf==3.20
+scikit-learn==1.1.1

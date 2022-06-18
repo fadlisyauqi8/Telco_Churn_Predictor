@@ -1,0 +1,3 @@
+URL Backend : https://churn-backend.herokuapp.com/
+URL Frontend : ​https://churn-front.herokuapp.com/
+URL Dataset : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
